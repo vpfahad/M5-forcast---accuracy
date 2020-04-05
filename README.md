@@ -15,3 +15,14 @@ If successful, your work will continue to advance the theory and practice of for
 
 Acknowledgements
 Additional thanks go to other partner organizations and prize sponsors, National Technical University of Athens (NTUA), INSEAD, Google, Uber and IIF.
+
+
+Dataset
+=======
+
+Dataset is in input folder
+
+Kaggle reference - notebook
+===========================
+
+This folder contain all the reference notebooks.
